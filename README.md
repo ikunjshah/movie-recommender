@@ -15,7 +15,7 @@ The Movie Recommender System is a software application designed to suggest movie
 5. **User Interface**: The system provides an intuitive and user-friendly interface, allowing users to easily navigate and interact with the application.
 
 ## Images
-![Movie Recommender System](2023-05-19 19 06 36.png)
+![Movie Recommender System](https://github.com/ikunjshah/movie-recommender/blob/main/2023-05-19%2019%2006%2036.png?raw=true)
 
 
 
